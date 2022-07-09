@@ -1,0 +1,9 @@
+.container{
+    height: 100px;
+    padding: 0px 50px;
+    background-color: maroon;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
